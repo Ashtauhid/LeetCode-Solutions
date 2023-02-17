@@ -1,1 +1,1 @@
-# LeetCode-Solutions
+# I have started solving problems and taking notes of them just remember what went through my head when I was solving these problems. I have added extensive comments to the solutions to get an idea of the thought process and the approach of the solutions. I will keep solving and uploading them here if I can see the face of the earth tomorrow. Peace!
